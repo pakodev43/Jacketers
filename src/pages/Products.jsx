@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 import Header from '../components/Header.jsx'
-import Product from '../components/product.jsx'
+import Product from '../components/Product.jsx'
 import Footer from '../components/Footer.jsx'
 
 const Products = () => {
