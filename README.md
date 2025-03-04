@@ -1,4 +1,4 @@
 # Plush
 The clothing brand's e-commerce website.
 
-Live at https://plush.vercel.app
+Live at https://plushwear.vercel.app
