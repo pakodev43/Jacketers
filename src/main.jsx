@@ -17,8 +17,8 @@ createRoot(document.getElementById('root')).render(
     <BrowserRouter>
         <Routes>
             <Route index element={<Home />} />
-            <Route path="/wears/men" element={<Products productImage01={ productImage02 } />} />
-            <Route path="/wears/women" element={<Products productImage01={ productImage01 } />} />
+            <Route path="/wears/men" element={<Products productImage01={ productImage01 } />} />
+            <Route path="/wears/women" element={<Products productImage01={ productImage02 } />} />
             <Route path="/wear" element={<ProductIndividual />} />
             <Route path="/cart" element={<Cart />} />
         </Routes>
