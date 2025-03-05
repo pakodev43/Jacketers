@@ -6,7 +6,7 @@ function Footer() {
 
       <div className='w-fit mx-auto mb-10 px-5'>
         <div className="mb-3 w-fit mx-auto flex gap-1.5 items-center">
-          <div><Link to='/wears' className='text-xl md:text-2xl uppercase tracking-wider italic'><span className='text-2xl md:text-3xl'>K</span>aftan</Link></div>
+          <div><Link to='/' className='text-xl md:text-2xl uppercase tracking-wider italic'><span className='text-2xl md:text-3xl'>K</span>aftan</Link></div>
         </div>
         <div className="mb-3 w-fit mx-auto">
             <ul className="flex flex-wrap gap-5 items-center text-sm">
