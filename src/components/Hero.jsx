@@ -4,7 +4,7 @@ import heroimg1 from '../assets/heroimg1.jpg'
 
 function Hero() {
   return (
-    <div className='w-full h-185 md:h-auto md:aspect-16/9 relative'>
+    <div className='w-full h-[85vh] md:h-auto md:aspect-16/9 relative'>
         <img src={ heroimg1 } alt="Image of clothes" className='w-full h-full object-cover' />
         <div className='absolute bottom-20 md:bottom-30 w-full text-white'>
             <div className='w-fit mx-auto text-center'>
