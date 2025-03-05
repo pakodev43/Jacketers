@@ -9,7 +9,7 @@ function Header() {
   return (
     <header className='px-2.5 md:px-15 py-3 md:py-7 flex items-center justify-between w-full'>
       {/* <div><img src={logo} className='w-7.5 md:w-10' alt="Layered Up" /></div> */}
-      <div><Link to="/" className='text-lg md:text-2xl uppercase tracking-wider italic'><span className='text-2xl md:text-3xl'>P</span>lush</Link></div>
+      <div><Link to="/" className='text-lg md:text-2xl uppercase tracking-wider italic'><span className='text-2xl md:text-3xl'>K</span>aftan</Link></div>
 
       <nav className={topNav ? 'block fixed top-0 right-0 h-full w-80 md:w-full bg-white z-1' : 'hidden md:block'}>
         <ul className="flex gap-4 md:gap-10 uppercase text-2xl md:text-base flex-col md:flex-row pt-23 px-10 md:p-0">

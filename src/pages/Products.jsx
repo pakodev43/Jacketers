@@ -5,10 +5,7 @@ import Header from '../components/Header.jsx'
 import Product from '../components/Product.jsx'
 import Footer from '../components/Footer.jsx'
 
-import productImage01 from '../assets/productImage01.webp'
-import productImage02 from '../assets/productImage02.webp'
-
-const Products = () => {
+const Products = ({ productImage01 }) => {
     return (
         <>
             <Header />

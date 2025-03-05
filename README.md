@@ -1,4 +1,4 @@
-# Plush
+# Kaftan
 The clothing brand's e-commerce website.
 
-Live at https://plushwear.vercel.app
+Live at https://kaftan.vercel.app
