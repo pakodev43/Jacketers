@@ -13,12 +13,12 @@ function Header() {
 
       <nav className={topNav ? 'block fixed top-0 right-0 h-full w-80 md:w-full bg-white z-1' : 'hidden md:block'}>
         <ul className="flex gap-4 md:gap-10 uppercase text-2xl md:text-base flex-col md:flex-row pt-23 px-10 md:p-0">
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Men</Link></li>
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Women</Link></li>
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Kids</Link></li>
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Leather</Link></li>
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Woolen</Link></li>
-          <li><Link to="/wears" className='pb-1 hover:border-b-2'>Parachute</Link></li>
+          <li><Link to="/wears/men" className='pb-1 hover:border-b-2'>Men</Link></li>
+          <li><Link to="/wears/women" className='pb-1 hover:border-b-2'>Women</Link></li>
+          <li><Link to="/wears/men" className='pb-1 hover:border-b-2'>Kids</Link></li>
+          <li><Link to="/wears/men" className='pb-1 hover:border-b-2'>Leather</Link></li>
+          <li><Link to="/wears/men" className='pb-1 hover:border-b-2'>Woolen</Link></li>
+          <li><Link to="/wears/men" className='pb-1 hover:border-b-2'>Parachute</Link></li>
         </ul>
       </nav>
 
